@@ -19,6 +19,9 @@ form {
 span{
     color: blue;
 }
+.container h1{
+    font-size: 1.3rem;
+}
 
 input[type="number"],
 input[type="text"],
