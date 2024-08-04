@@ -22,7 +22,14 @@ span{
 .container h1{
     font-size: 1.3rem;
 }
-
+.container p{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.congrap{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
 input[type="number"],
 input[type="text"],
 input[type="submit"] {
